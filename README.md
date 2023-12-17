@@ -1,4 +1,4 @@
-# Lucky Shrub E-commerce App
+# Lucky Shrub E-commerce App 🌿
 
 I created this 1-page app to practice some advanced HTML and CSS skills. 
 
